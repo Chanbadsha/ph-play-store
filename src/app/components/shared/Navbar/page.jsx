@@ -7,7 +7,7 @@ import { usePathname } from "next/navigation";
 import { FaGithub } from "react-icons/fa";
 const Navbar = () => {
   const pathName = usePathname();
-  console.log(pathName);
+
   const links = (
     <>
       <li>

@@ -31,10 +31,13 @@ export default function RootLayout({ children }) {
       className={`${headingFont.variable} ${bodyFont.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        {/* Navbar */}
-        <Navbar />
-        <main> {children}</main>
-        <Footer />
+        <div className="flex flex-col min-h-screen">
+          <Navbar />
+
+          <main className="flex-1 flex">{children}</main>
+
+          <Footer />
+        </div>
       </body>
     </html>
   );
