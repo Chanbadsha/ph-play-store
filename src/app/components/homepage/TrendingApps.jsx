@@ -11,7 +11,7 @@ const TrendingApps = () => {
       <p className="text-xs md:text-base">
         Explore All Trending Apps on the Market developed by us
       </p>
-      <div className="grid mt-12 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+      <div className="grid px-4 mt-12 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
         {apps.slice(0, 8).map((app, ind) => (
           <AppCard key={ind} app={app} />
         ))}
