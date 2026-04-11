@@ -4,17 +4,31 @@
     "title": "WhatsApp Messenger",
     "companyName": "WhatsApp LLC",
     "id": 1,
-    "description": "WhatsApp Messenger is a free messaging app available for Android and other smartphones. WhatsApp uses your phone's Internet connection to let you message and call friends and family. Switch from SMS to WhatsApp to send and receive messages, calls, photos, videos, documents, and voice messages. Stay connected with people no matter where they are, safely and securely with end-to-end encryption.",
-    "size": 80,
+    "description": "WhatsApp Messenger is a widely used global communication platform that has transformed the way people connect, interact, and share information in the digital age. It allows users to stay connected through instant messaging, high-quality voice calls, and video calls over the internet, removing the limitations of traditional SMS and standard cellular calling systems. By relying on internet connectivity, it provides a faster, more flexible, and often cost-free communication experience that works across different devices and regions worldwide.\n\nAt its core, WhatsApp Messenger enables users to send and receive text messages in real time, making conversations immediate and seamless. However, its capabilities go far beyond simple texting. Users can share images, videos, documents, PDFs, voice recordings, stickers, emojis, and even animated GIFs, making communication more expressive and interactive. The platform also supports real-time location sharing, allowing users to send their live position to friends, family, or colleagues for a specific duration, which is especially useful for safety, travel coordination, or meeting arrangements.\n\nOne of the most important features of WhatsApp Messenger is its support for group chats. Group chats allow multiple users to participate in a single conversation, making it easier for families to stay in touch, for friends to plan events, or for teams and organizations to collaborate efficiently. Within group chats, users can share updates, media, and documents instantly, reducing the need for separate communication channels. Additionally, WhatsApp Communities extend this functionality further by allowing multiple related groups to be organized under a larger structure, helping schools, organizations, neighborhoods, and interest-based groups manage communication in a more structured and scalable way.\n\nWhatsApp Messenger also supports voice calling and video calling, both of which are designed to deliver high-quality communication even over moderate internet connections. Voice calls allow users to speak in real time without traditional phone charges, while video calls enable face-to-face conversations regardless of geographical distance. These features have made WhatsApp an essential tool not only for personal communication but also for remote work, online education, and global collaboration.\n\nSecurity is one of the strongest pillars of WhatsApp Messenger. The platform uses end-to-end encryption for all messages, calls, photos, videos, and shared files. This means that only the sender and the intended recipient can read or listen to the content, and no third party—including WhatsApp itself—can access the private communication. This encryption system provides users with a high level of privacy and trust, making it one of the most secure mainstream messaging platforms in the world.\n\nIn addition to personal communication, WhatsApp Messenger has evolved into a powerful tool for businesses through WhatsApp Business and its associated features. Businesses can create official profiles, provide customer support, send automated replies, and share product catalogs directly with customers. This allows companies to engage with their audience in a more direct and personalized way. Small businesses especially benefit from WhatsApp because it offers a low-cost yet highly effective communication channel for marketing, customer service, and order management.\n\nThe platform also includes features such as status updates, where users can share photos, videos, and text that disappear after 24 hours. This feature is similar to stories on other social media platforms and allows users to express daily moments, announcements, or updates in a temporary format. WhatsApp also includes profile customization options, allowing users to set profile pictures, display names, and about sections to personalize their presence on the app.\n\nAnother important aspect of WhatsApp Messenger is its cross-platform availability. It can be used on Android, iOS, and desktop systems through WhatsApp Web and dedicated applications. This flexibility ensures that users can stay connected regardless of the device they are using, whether it is a smartphone, tablet, or computer. Messages are synchronized across devices, making it easy to continue conversations seamlessly.\n\nOver time, WhatsApp has also introduced features like voice notes, which allow users to send recorded audio messages quickly without typing. This has become especially popular in situations where typing is inconvenient or when users want to convey tone and emotion more naturally. Additionally, message reactions, pinned messages, message search, and chat archiving help users manage conversations more efficiently.\n\nFrom a social perspective, WhatsApp Messenger has become deeply integrated into everyday life across many countries. It is used for casual chatting, professional communication, educational coordination, emergency communication, and even community announcements. Its simplicity and reliability have contributed to its massive global adoption.\n\nOverall, WhatsApp Messenger is more than just a messaging app; it is a comprehensive communication ecosystem that connects billions of people around the world. It combines speed, simplicity, security, and versatility, making it one of the most influential digital communication platforms in modern history.",
     "reviews": "172000K",
     "ratingAvg": 4.5,
     "downloads": "5000M",
     "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 2400000 },
-      { "name": "3 star", "count": 8400000 },
-      { "name": "4 star", "count": 25000000 },
-      { "name": "5 star", "count": 136000000 }
+      {
+        "name": "1 star",
+        "count": 1200000
+      },
+      {
+        "name": "2 star",
+        "count": 2400000
+      },
+      {
+        "name": "3 star",
+        "count": 8400000
+      },
+      {
+        "name": "4 star",
+        "count": 25000000
+      },
+      {
+        "name": "5 star",
+        "count": 136000000
+      }
     ]
   },
   {
@@ -22,17 +36,32 @@
     "title": "Spotify: Music and Podcasts",
     "companyName": "Spotify AB",
     "id": 2,
-    "description": "Spotify gives you instant access to millions of songs, albums, and podcasts from artists all over the world. Stream your favorite tracks, discover new music, and build playlists with ease. With personalized recommendations, offline playback, and high-quality audio, Spotify makes it simple to enjoy the perfect soundtrack to your life—anytime, anywhere.",
+    "description": "Spotify is a powerful music and audio streaming platform that gives users instant access to millions of songs, albums, playlists, and podcasts from creators all around the world. It is designed to provide a highly personalized listening experience using advanced recommendation algorithms that analyze your listening habits, favorite genres, skipped tracks, and liked songs to suggest content tailored specifically to your taste.\n\nSpotify allows users to explore an enormous global library of music across all genres including pop, hip-hop, classical, jazz, electronic, rock, and regional music. Users can search for specific artists, albums, or songs, or simply rely on curated playlists such as Discover Weekly, Release Radar, and Daily Mixes that automatically update based on user preferences.\n\nBeyond music, Spotify has become one of the world’s largest podcast platforms, hosting millions of shows covering education, business, technology, health, comedy, storytelling, and news. Creators from around the world can publish content easily, allowing listeners to access both professional productions and independent voices in one place.\n\nThe platform also supports powerful social features, enabling users to create, share, and collaborate on playlists with friends or the public. This makes music discovery more interactive and community-driven. Users can follow artists, see what their friends are listening to, and share tracks across social media platforms effortlessly.\n\nFor premium users, Spotify offers additional features such as offline downloads, ad-free listening, unlimited skips, and higher audio quality streaming. This ensures uninterrupted music playback even without an internet connection, making it ideal for travel, commuting, or offline environments.\n\nSpotify is available across multiple devices including smartphones, desktops, tablets, smart TVs, gaming consoles, and wearable devices. With seamless cross-device synchronization, users can start listening on one device and continue on another without losing their place. This ecosystem integration makes Spotify one of the most flexible and widely used digital entertainment platforms in the world.",
     "size": 110,
     "reviews": "32000K",
     "ratingAvg": 4.4,
     "downloads": "1000M",
     "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 1800000 },
-      { "name": "3 star", "count": 4200000 },
-      { "name": "4 star", "count": 9800000 },
-      { "name": "5 star", "count": 14900000 }
+      {
+        "name": "1 star",
+        "count": 1200000
+      },
+      {
+        "name": "2 star",
+        "count": 1800000
+      },
+      {
+        "name": "3 star",
+        "count": 4200000
+      },
+      {
+        "name": "4 star",
+        "count": 9800000
+      },
+      {
+        "name": "5 star",
+        "count": 14900000
+      }
     ]
   },
   {
@@ -40,17 +69,32 @@
     "title": "Instagram",
     "companyName": "Instagram",
     "id": 3,
-    "description": "Instagram brings you closer to the people and things you love. Connect with friends, share what you're up to, or see what's new from others all over the world. Explore communities, share photos and videos, and express yourself with creative tools like Reels, Stories, and filters. Build your presence, follow your interests, and make your mark online.",
+    "description": "Instagram is a modern social media platform designed for sharing photos, videos, and creative content with people across the world. It enables users to express themselves visually through posts, Stories, Reels, and live streaming, making it one of the most dynamic platforms for personal expression and digital communication.\n\nThe platform connects billions of users globally, including friends, influencers, celebrities, brands, and communities. Through likes, comments, shares, and direct messaging, Instagram fosters real-time interaction and engagement, allowing people to build relationships and grow online audiences.\n\nInstagram provides powerful creative tools such as filters, editing options, AR effects, and video enhancements that allow users to transform simple photos and videos into visually appealing content. Reels and Stories further encourage short-form, engaging, and viral content creation.\n\nFor businesses and creators, Instagram has become a critical marketing and branding tool. It supports product promotion, influencer marketing, sponsored posts, and targeted advertising, helping brands reach specific audiences based on interests, behavior, and demographics.\n\nThe platform also plays a major role in entertainment, lifestyle inspiration, fashion trends, travel content, and digital storytelling. Users can discover trending content through Explore, follow hashtags, and engage with global communities based on shared interests.\n\nInstagram continues to evolve with new features like shopping integration, algorithm-based feeds, AI recommendations, and enhanced messaging tools, making it not just a social network but a full digital ecosystem for communication, creativity, and commerce.",
     "size": 130,
     "reviews": "160000K",
     "ratingAvg": 4.2,
     "downloads": "5000M",
     "ratings": [
-      { "name": "1 star", "count": 8000000 },
-      { "name": "2 star", "count": 10000000 },
-      { "name": "3 star", "count": 22000000 },
-      { "name": "4 star", "count": 45000000 },
-      { "name": "5 star", "count": 75000000 }
+      {
+        "name": "1 star",
+        "count": 8000000
+      },
+      {
+        "name": "2 star",
+        "count": 10000000
+      },
+      {
+        "name": "3 star",
+        "count": 22000000
+      },
+      {
+        "name": "4 star",
+        "count": 45000000
+      },
+      {
+        "name": "5 star",
+        "count": 75000000
+      }
     ]
   },
   {
@@ -58,17 +102,32 @@
     "title": "TikTok",
     "companyName": "TikTok Pte. Ltd.",
     "id": 4,
-    "description": "TikTok is the destination for mobile videos. Create short-form videos that are exciting, spontaneous, and genuine. Whether you're a sports fan, a pet lover, or just looking for laughter, there's something for everyone on TikTok. Discover millions of creators, participate in challenges, and share your creativity with the world.",
+    "description": "TikTok is a global short-form video platform designed for creating, editing, and sharing engaging videos with a massive worldwide audience. It focuses heavily on entertainment, creativity, and viral content, making it one of the fastest-growing and most influential social media platforms in the digital era.\n\nThe platform allows users to explore an endless stream of personalized videos through its powerful recommendation algorithm. This feed adapts to user behavior, interests, watch time, and interactions, ensuring that each user sees highly relevant and engaging content.\n\nTikTok supports a wide variety of content categories including comedy skits, dance challenges, educational tips, lifestyle vlogs, technology reviews, cooking videos, fitness routines, and global trends. This diversity has helped it attract users of all ages and interests from around the world.\n\nThe app also provides advanced creative tools such as video trimming, transitions, filters, augmented reality effects, text overlays, and a vast music library. These features make it easy for anyone to produce professional-looking videos directly from their mobile device.\n\nTikTok has become a major platform for influencers, brands, and content creators to grow their audience and build personal or business identities. Viral challenges, hashtags, and trending sounds help creators reach millions of viewers organically.\n\nBeyond entertainment, TikTok is increasingly used for education, marketing, storytelling, and cultural expression, making it a powerful global platform that shapes modern internet trends and digital culture.",
     "size": 180,
     "reviews": "45000K",
     "ratingAvg": 4.4,
     "downloads": "3000M",
     "ratings": [
-      { "name": "1 star", "count": 3000000 },
-      { "name": "2 star", "count": 5000000 },
-      { "name": "3 star", "count": 7000000 },
-      { "name": "4 star", "count": 13000000 },
-      { "name": "5 star", "count": 17000000 }
+      {
+        "name": "1 star",
+        "count": 3000000
+      },
+      {
+        "name": "2 star",
+        "count": 5000000
+      },
+      {
+        "name": "3 star",
+        "count": 7000000
+      },
+      {
+        "name": "4 star",
+        "count": 13000000
+      },
+      {
+        "name": "5 star",
+        "count": 17000000
+      }
     ]
   },
   {
@@ -76,17 +135,32 @@
     "title": "Snapchat",
     "companyName": "Snap Inc",
     "id": 5,
-    "description": "Snapchat lets you easily talk with friends, view Live Stories from around the world, and explore news in Discover. Send photos and videos that disappear after being viewed, or save memories to share later. Express yourself with filters, lenses, Bitmoji, and more. Snapchat makes everyday communication fun and fast.",
+    "description": "Snapchat is a multimedia messaging application built around fast, visual communication that allows users to share photos and short videos, known as Snaps, which typically disappear after being viewed. It focuses on spontaneous and temporary sharing, making conversations feel more natural and real-time.\n\nUsers can communicate through Snaps, Stories, and private chats, enabling them to share moments instantly with friends and close connections. Stories allow users to post content that lasts for 24 hours, while chats support direct messaging for ongoing conversations.\n\nSnapchat is widely known for its creative and interactive augmented reality (AR) filters, lenses, and Bitmoji integration. These features allow users to enhance selfies, transform appearances, and add fun visual effects, making communication more expressive and entertaining.\n\nThe platform also includes Discover, Spotlight, and Live Stories, where users can explore trending content, news, entertainment, and viral videos from creators, publishers, and influencers around the world.\n\nSnapchat has a strong focus on privacy and immediacy, encouraging users to share authentic, unfiltered moments without the pressure of permanent posting. This has made it especially popular among younger audiences.\n\nOver time, Snapchat has evolved into a broader social ecosystem that includes gaming, maps (Snap Map), creator monetization tools, and advanced AR experiences, making it a powerful platform for both communication and entertainment.",
     "size": 95,
     "reviews": "28000K",
     "ratingAvg": 4.3,
     "downloads": "1000M",
     "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 1700000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 8800000 },
-      { "name": "5 star", "count": 12300000 }
+      {
+        "name": "1 star",
+        "count": 1200000
+      },
+      {
+        "name": "2 star",
+        "count": 1700000
+      },
+      {
+        "name": "3 star",
+        "count": 4000000
+      },
+      {
+        "name": "4 star",
+        "count": 8800000
+      },
+      {
+        "name": "5 star",
+        "count": 12300000
+      }
     ]
   },
   {
@@ -94,17 +168,32 @@
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 6,
-    "description": "Get the official YouTube app for Android phones and tablets. See what the world is watching — from the hottest music videos to what's trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch on any device. YouTube lets you explore endless video content tailored just for you.",
+    "description": "YouTube is the world’s largest video-sharing platform that allows users to watch, upload, and share videos across an extremely wide range of categories including music, education, entertainment, gaming, tutorials, reviews, news, and live events. It has become a central hub for global video consumption and digital learning.\n\nThe platform uses powerful recommendation algorithms that analyze user behavior such as watch history, likes, subscriptions, and engagement patterns to deliver highly personalized content suggestions. This makes it easy for users to discover new creators and videos tailored to their interests.\n\nContent creators can build channels, grow subscriber bases, and monetize their content through advertisements, memberships, Super Chats, and sponsorships. This has created a massive global creator economy where individuals and companies can earn revenue from content production.\n\nYouTube also supports live streaming, enabling real-time interaction between creators and audiences during events, gaming sessions, and announcements. In addition, YouTube Shorts provides a short-form video experience similar to modern social media trends.\n\nWith billions of videos available, YouTube serves as a global platform for education, entertainment, and skill development. Users can learn anything from academic subjects to practical life skills, making it one of the most influential platforms in the digital world.\n\nThe platform is accessible across multiple devices including smartphones, tablets, smart TVs, and desktops, ensuring seamless viewing experiences anywhere in the world.",
     "size": 140,
     "reviews": "145000K",
     "ratingAvg": 4.5,
     "downloads": "10000M",
     "ratings": [
-      { "name": "1 star", "count": 4000000 },
-      { "name": "2 star", "count": 7000000 },
-      { "name": "3 star", "count": 13000000 },
-      { "name": "4 star", "count": 42000000 },
-      { "name": "5 star", "count": 79000000 }
+      {
+        "name": "1 star",
+        "count": 4000000
+      },
+      {
+        "name": "2 star",
+        "count": 7000000
+      },
+      {
+        "name": "3 star",
+        "count": 13000000
+      },
+      {
+        "name": "4 star",
+        "count": 42000000
+      },
+      {
+        "name": "5 star",
+        "count": 79000000
+      }
     ]
   },
   {
@@ -112,17 +201,32 @@
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 7,
-    "description": "Telegram is a messaging app focused on speed and security. It's super-fast, simple, and free. You can send messages, photos, videos, and files of any type. Create groups for up to 200,000 members or channels for broadcasting to unlimited audiences. Cloud-based and encrypted, Telegram keeps your data safe while syncing seamlessly across all devices.",
+    "description": "Telegram is a cloud-based messaging platform designed for fast, secure, and large-scale communication across devices and networks. It focuses on speed, privacy, and flexibility, making it one of the most powerful messaging apps in the world.\n\nUsers can send messages, photos, videos, documents, and large files without strict size limitations. This makes Telegram highly suitable for both personal communication and professional file sharing.\n\nThe platform supports massive group chats and broadcast channels that can include hundreds of thousands of members. These features make it widely used for communities, businesses, education groups, and news distribution.\n\nTelegram provides advanced privacy features such as secret chats, self-destructing messages, and end-to-end encryption for sensitive conversations. Users also benefit from cloud-based syncing, allowing seamless access across multiple devices.\n\nAnother powerful feature is its bot ecosystem, which enables automation, customer support, games, and productivity tools within chats. This makes Telegram more than just a messaging app—it is a full communication platform.\n\nBecause of its speed, scalability, and security, Telegram has become a global tool for both personal messaging and large online communities.",
     "size": 75,
     "reviews": "22000K",
     "ratingAvg": 4.6,
     "downloads": "1000M",
     "ratings": [
-      { "name": "1 star", "count": 700000 },
-      { "name": "2 star", "count": 900000 },
-      { "name": "3 star", "count": 1800000 },
-      { "name": "4 star", "count": 5000000 },
-      { "name": "5 star", "count": 14600000 }
+      {
+        "name": "1 star",
+        "count": 700000
+      },
+      {
+        "name": "2 star",
+        "count": 900000
+      },
+      {
+        "name": "3 star",
+        "count": 1800000
+      },
+      {
+        "name": "4 star",
+        "count": 5000000
+      },
+      {
+        "name": "5 star",
+        "count": 14600000
+      }
     ]
   },
   {
@@ -130,17 +234,32 @@
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
     "id": 8,
-    "description": "Looking for the most talked-about TV shows and movies? They're all on Netflix. Watch award-winning series, documentaries, movies, and stand-up specials. With personalized recommendations and offline viewing, Netflix makes it easy to find your next favorite story anytime, anywhere.",
+    "description": "Netflix is a leading global streaming platform that provides users with access to a vast library of movies, television series, documentaries, and exclusive original productions. It has transformed modern entertainment by making on-demand content accessible worldwide.\n\nThe platform uses advanced recommendation systems that analyze viewing habits, ratings, and preferences to suggest personalized content for each user. This ensures a highly customized entertainment experience.\n\nNetflix is widely known for producing high-quality original content including award-winning series, films, and documentaries that are exclusive to the platform. These originals have become cultural phenomena worldwide.\n\nUsers can stream content in high-definition and ultra-high-definition formats depending on their subscription plan. Additionally, Netflix allows offline downloads, enabling viewing without an internet connection.\n\nThe service is available across multiple devices such as smartphones, tablets, smart TVs, gaming consoles, and computers, ensuring a seamless viewing experience across platforms.\n\nWith its global reach and constantly expanding content library, Netflix has become one of the most influential entertainment services in the world.",
     "size": 150,
     "reviews": "25000K",
     "ratingAvg": 4.3,
     "downloads": "1000M",
     "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 1900000 },
-      { "name": "3 star", "count": 4200000 },
-      { "name": "4 star", "count": 8800000 },
-      { "name": "5 star", "count": 9800000 }
+      {
+        "name": "1 star",
+        "count": 1200000
+      },
+      {
+        "name": "2 star",
+        "count": 1900000
+      },
+      {
+        "name": "3 star",
+        "count": 4200000
+      },
+      {
+        "name": "4 star",
+        "count": 8800000
+      },
+      {
+        "name": "5 star",
+        "count": 9800000
+      }
     ]
   },
   {
@@ -148,17 +267,32 @@
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 9,
-    "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and explore local neighborhoods. Whether you're commuting or traveling, Google Maps helps you find the best route every time.",
+    "description": "Google Maps is a powerful navigation and mapping service that allows users to explore the world, find directions, and discover millions of places with ease. It provides real-time GPS navigation, turn-by-turn guidance, and live traffic updates to help users reach their destinations efficiently.\n\nThe platform offers alternative route suggestions based on traffic conditions, road closures, and estimated travel times, ensuring users always get the fastest or most convenient path available. It supports multiple travel modes including driving, walking, cycling, and public transportation.\n\nUsers can search for businesses, restaurants, hotels, landmarks, and attractions with detailed information such as reviews, photos, ratings, and operating hours. This makes it a complete tool for both navigation and local discovery.\n\nGoogle Maps also includes Street View, allowing users to explore real-world locations in a 360-degree panoramic view. This feature is especially useful for travel planning and virtual exploration of unfamiliar places.\n\nOffline maps enable users to download specific areas and use navigation without an internet connection, making it highly practical for travelers in remote or low-network regions.\n\nWith its global coverage and continuous updates, Google Maps has become an essential tool for commuting, travel planning, business discovery, and everyday navigation worldwide.",
     "size": 100,
     "reviews": "160000K",
     "ratingAvg": 4.4,
     "downloads": "10000M",
     "ratings": [
-      { "name": "1 star", "count": 6000000 },
-      { "name": "2 star", "count": 8000000 },
-      { "name": "3 star", "count": 12000000 },
-      { "name": "4 star", "count": 38000000 },
-      { "name": "5 star", "count": 96000000 }
+      {
+        "name": "1 star",
+        "count": 6000000
+      },
+      {
+        "name": "2 star",
+        "count": 8000000
+      },
+      {
+        "name": "3 star",
+        "count": 12000000
+      },
+      {
+        "name": "4 star",
+        "count": 38000000
+      },
+      {
+        "name": "5 star",
+        "count": 96000000
+      }
     ]
   },
   {
@@ -166,17 +300,32 @@
     "title": "Twitter (X)",
     "companyName": "X Corp.",
     "id": 10,
-    "description": "The X app (formerly Twitter) is the place to see what's happening. Follow your interests, join global conversations, and share your thoughts instantly. From breaking news to sports, entertainment, and politics, X connects you to the world in real-time.",
+    "description": "X (formerly Twitter) is a real-time social media platform designed for instant communication, public discussions, and global information sharing. It allows users to post short messages, images, videos, and updates that spread quickly across the platform.\n\nThe platform is widely used for breaking news, trending topics, and live discussions across politics, sports, entertainment, technology, and global events. Its real-time nature makes it one of the fastest sources of information online.\n\nUsers can interact through replies, likes, reposts, and quotes, enabling open conversations and debates between individuals, communities, brands, and public figures. This interaction helps amplify ideas and trending content.\n\nX also supports multimedia content including videos, live streaming, and long-form posts for premium users and creators. These features expand its functionality beyond simple text-based updates.\n\nThe platform is heavily used by journalists, influencers, businesses, and governments for announcements, public engagement, and audience building, making it a key communication tool worldwide.\n\nWith its global reach and real-time distribution system, X has become a central hub for modern digital communication and public discourse.",
     "size": 85,
     "reviews": "30000K",
     "ratingAvg": 4.0,
     "downloads": "1000M",
     "ratings": [
-      { "name": "1 star", "count": 2200000 },
-      { "name": "2 star", "count": 3400000 },
-      { "name": "3 star", "count": 4200000 },
-      { "name": "4 star", "count": 7200000 },
-      { "name": "5 star", "count": 13000000 }
+      {
+        "name": "1 star",
+        "count": 2200000
+      },
+      {
+        "name": "2 star",
+        "count": 3400000
+      },
+      {
+        "name": "3 star",
+        "count": 4200000
+      },
+      {
+        "name": "4 star",
+        "count": 7200000
+      },
+      {
+        "name": "5 star",
+        "count": 13000000
+      }
     ]
   },
   {
@@ -184,17 +333,32 @@
     "title": "Clash of Clans",
     "companyName": "Supercell",
     "id": 11,
-    "description": "Join millions of players worldwide as you build your village, raise a clan, and compete in epic Clan Wars! Clash of Clans is a strategic combat game where you command armies of Barbarians, Archers, and legendary heroes. Build defenses to protect your base and raid others for loot. With endless upgrades, clan events, and real-time battles, Clash of Clans delivers nonstop action and community-driven fun.",
+    "description": "Clash of Clans is a strategic mobile game where players build, upgrade, and defend their villages while training armies to attack other players worldwide. It combines strategy, resource management, and competitive multiplayer battles.\n\nPlayers collect and manage resources such as gold, elixir, and dark elixir to upgrade buildings, defenses, troops, and heroes. Strategic planning is essential for building a strong and balanced village.\n\nThe game features clan systems where players can join groups, donate troops, and participate in cooperative clan wars against other clans. These wars add a strong social and competitive element.\n\nSeasonal events, challenges, and global competitions keep the gameplay fresh and engaging, offering rewards and unique experiences for active players.\n\nPlayers can design base layouts strategically to defend against enemy attacks while planning offensive strategies to raid other villages effectively.\n\nWith its deep strategy mechanics and long-term progression system, Clash of Clans remains one of the most successful and enduring mobile strategy games in the world.",
     "size": 280,
     "reviews": "65000K",
     "ratingAvg": 4.6,
     "downloads": "1000M",
     "ratings": [
-      { "name": "1 star", "count": 2000000 },
-      { "name": "2 star", "count": 2500000 },
-      { "name": "3 star", "count": 5000000 },
-      { "name": "4 star", "count": 12000000 },
-      { "name": "5 star", "count": 43500000 }
+      {
+        "name": "1 star",
+        "count": 2000000
+      },
+      {
+        "name": "2 star",
+        "count": 2500000
+      },
+      {
+        "name": "3 star",
+        "count": 5000000
+      },
+      {
+        "name": "4 star",
+        "count": 12000000
+      },
+      {
+        "name": "5 star",
+        "count": 43500000
+      }
     ]
   },
   {
@@ -202,17 +366,32 @@
     "title": "PUBG Mobile",
     "companyName": "Level Infinite",
     "id": 12,
-    "description": "PUBG Mobile delivers the most intense free-to-play multiplayer action on mobile. Drop into the battlefield, gear up, and fight to be the last one standing. Explore diverse maps, realistic weapons, and exciting modes like Team Deathmatch and Payload. With frequent updates and events, PUBG Mobile provides endless entertainment for competitive and casual gamers alike.",
+    "description": "PUBG Mobile is a competitive battle royale game where 100 players are dropped onto an island and fight to be the last survivor. It offers intense survival gameplay combined with tactical combat and strategy.\n\nPlayers can choose solo, duo, or squad modes, allowing teamwork and coordination to play a crucial role in victory. Communication and strategy are key to surviving against other players.\n\nThe game features realistic weapons, vehicles, and maps that create immersive combat scenarios. Players must search for equipment, manage resources, and adapt to shrinking safe zones.\n\nRegular updates introduce new maps, game modes, events, skins, and seasonal content to keep the experience fresh and engaging for players worldwide.\n\nRanked matches and competitive systems allow players to test their skills against others globally, creating a highly competitive esports environment.\n\nWith its realistic gameplay, global community, and constant updates, PUBG Mobile remains one of the most popular and influential battle royale games in the world.",
     "size": 750,
     "reviews": "46000K",
     "ratingAvg": 4.3,
     "downloads": "1000M",
     "ratings": [
-      { "name": "1 star", "count": 4000000 },
-      { "name": "2 star", "count": 5000000 },
-      { "name": "3 star", "count": 7000000 },
-      { "name": "4 star", "count": 11000000 },
-      { "name": "5 star", "count": 19000000 }
+      {
+        "name": "1 star",
+        "count": 4000000
+      },
+      {
+        "name": "2 star",
+        "count": 5000000
+      },
+      {
+        "name": "3 star",
+        "count": 7000000
+      },
+      {
+        "name": "4 star",
+        "count": 11000000
+      },
+      {
+        "name": "5 star",
+        "count": 19000000
+      }
     ]
   },
   {
@@ -220,17 +399,32 @@
     "title": "Candy Crush Saga",
     "companyName": "King",
     "id": 13,
-    "description": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions around the world. Match colorful candies to progress through thousands of levels, each offering unique challenges and boosters. Easy to play but hard to master, Candy Crush Saga is the ultimate casual game that keeps you coming back for more delicious fun.",
+    "description": "Candy Crush Saga is a globally popular match-three puzzle game where players match colorful candies to complete objectives and progress through increasingly challenging levels. It has become one of the most recognizable casual games in mobile gaming history.\n\nThe game features thousands of levels, each designed with unique puzzles, obstacles, and goals that require strategic thinking and careful planning to complete successfully. Difficulty gradually increases as players progress.\n\nPlayers can use boosters, power-ups, and special combinations to clear difficult levels, making gameplay more dynamic and rewarding. These tools help players overcome challenging stages and improve their scores.\n\nCandy Crush Saga includes regular events, daily rewards, and time-limited challenges that keep players engaged and encourage continuous gameplay. These features add variety and excitement to the experience.\n\nThe game is easy to learn but progressively challenging to master, making it appealing to both casual and dedicated players. Its simple mechanics combined with deep progression make it highly addictive.\n\nWith its massive global user base and long-lasting popularity, Candy Crush Saga remains one of the most downloaded and successful mobile games in the world.",
     "size": 260,
     "reviews": "35000K",
     "ratingAvg": 4.6,
     "downloads": "1000M",
     "ratings": [
-      { "name": "1 star", "count": 1500000 },
-      { "name": "2 star", "count": 2100000 },
-      { "name": "3 star", "count": 4100000 },
-      { "name": "4 star", "count": 8600000 },
-      { "name": "5 star", "count": 19700000 }
+      {
+        "name": "1 star",
+        "count": 1500000
+      },
+      {
+        "name": "2 star",
+        "count": 2100000
+      },
+      {
+        "name": "3 star",
+        "count": 4100000
+      },
+      {
+        "name": "4 star",
+        "count": 8600000
+      },
+      {
+        "name": "5 star",
+        "count": 19700000
+      }
     ]
   },
   {
@@ -238,17 +432,32 @@
     "title": "LinkedIn",
     "companyName": "LinkedIn Corporation",
     "id": 14,
-    "description": "LinkedIn is the world's largest professional network. Connect with colleagues, discover career opportunities, and stay up to date with the latest industry trends. Build your personal brand, follow companies, and learn new skills through LinkedIn Learning. Whether you're job hunting or hiring, LinkedIn helps professionals succeed and grow together.",
+    "description": "LinkedIn is a professional networking platform designed to connect professionals, companies, and recruiters worldwide. It serves as a digital hub for career development, hiring, and professional identity building.\n\nUsers can create detailed profiles showcasing their experience, education, skills, certifications, and achievements, effectively acting as an online resume visible to employers and recruiters.\n\nThe platform allows users to connect with industry professionals, join communities, and participate in discussions related to careers, industries, and professional growth opportunities.\n\nLinkedIn also provides job search and recruitment tools, enabling users to apply for positions directly and allowing companies to find qualified candidates efficiently.\n\nLinkedIn Learning offers thousands of online courses covering business, technology, leadership, and creative skills, helping users improve their professional capabilities.\n\nWith its global professional network, LinkedIn has become an essential platform for career advancement, networking, and business development.",
     "size": 120,
     "reviews": "25000K",
     "ratingAvg": 4.4,
     "downloads": "1000M",
     "ratings": [
-      { "name": "1 star", "count": 1000000 },
-      { "name": "2 star", "count": 1800000 },
-      { "name": "3 star", "count": 3200000 },
-      { "name": "4 star", "count": 7200000 },
-      { "name": "5 star", "count": 11800000 }
+      {
+        "name": "1 star",
+        "count": 1000000
+      },
+      {
+        "name": "2 star",
+        "count": 1800000
+      },
+      {
+        "name": "3 star",
+        "count": 3200000
+      },
+      {
+        "name": "4 star",
+        "count": 7200000
+      },
+      {
+        "name": "5 star",
+        "count": 11800000
+      }
     ]
   },
   {
@@ -256,17 +465,197 @@
     "title": "Duolingo: Learn Languages",
     "companyName": "Duolingo",
     "id": 15,
-    "description": "Learn a new language for free with Duolingo. Practice speaking, reading, listening, and writing in a fun, bite-sized way. Duolingo helps you master over 30 languages like Spanish, French, German, and Japanese. With gamified lessons, streak tracking, and personalized goals, Duolingo makes learning addictive and effective for everyone.",
+    "description": "Duolingo is a gamified language learning platform that helps users learn new languages through interactive and engaging lessons. It is designed to make language learning simple, fun, and accessible to everyone.\n\nThe app teaches core language skills including speaking, reading, writing, and listening through short, structured lessons that adapt to the learner’s level and progress.\n\nIt supports more than 30 languages including Spanish, French, German, Japanese, Korean, and many others, making it one of the most diverse language learning platforms available.\n\nDuolingo uses gamification elements such as streaks, experience points, levels, and rewards to keep users motivated and encourage daily practice.\n\nThe platform also includes practice exercises, speaking challenges, and review systems that help reinforce learning and improve long-term retention.\n\nWith its fun, accessible, and effective approach, Duolingo has become one of the most popular language learning apps in the world.",
     "size": 65,
     "reviews": "14000K",
     "ratingAvg": 4.7,
     "downloads": "500M",
     "ratings": [
-      { "name": "1 star", "count": 400000 },
-      { "name": "2 star", "count": 700000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 3200000 },
-      { "name": "5 star", "count": 8700000 }
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 700000
+      },
+      {
+        "name": "3 star",
+        "count": 1200000
+      },
+      {
+        "name": "4 star",
+        "count": 3200000
+      },
+      {
+        "name": "5 star",
+        "count": 8700000
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/3a/1f/2c/3a1f2c5c8a0b2a7d9f0b6c8e2c7a9d1f.jpg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms",
+    "id": 16,
+    "description": "Facebook is one of the world’s largest social networking platforms, designed to help people connect, share, and communicate with friends, family, and communities across the globe.\n\nIt allows users to post text updates, photos, videos, and stories while interacting through likes, comments, and shares. This creates a highly interactive social experience.\n\nThe platform also supports groups, pages, and events, enabling communities to form around shared interests, businesses, and social causes.\n\nFacebook includes a powerful news feed algorithm that personalizes content based on user behavior, engagement, and preferences.\n\nIt also integrates messaging through Messenger, allowing real-time chat, voice, and video communication.\n\nWith billions of users worldwide, Facebook remains one of the most influential platforms in global digital communication.",
+    "size": 200,
+    "reviews": "180000K",
+    "ratingAvg": 4.2,
+    "downloads": "5000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 9000000
+      },
+      {
+        "name": "2 star",
+        "count": 12000000
+      },
+      {
+        "name": "3 star",
+        "count": 25000000
+      },
+      {
+        "name": "4 star",
+        "count": 50000000
+      },
+      {
+        "name": "5 star",
+        "count": 90000000
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/0f/5a/9c/0f5a9c2a1d7e3c9b8a1f2d4e6c7b8a9d.jpg",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft",
+    "id": 17,
+    "description": "Microsoft Teams is a collaboration and communication platform designed for workplace productivity, enabling chat, meetings, file sharing, and teamwork in one place.\n\nIt allows users to conduct video meetings, webinars, and group calls with high-quality audio and video support.\n\nTeams integrates deeply with Microsoft 365 apps like Word, Excel, and PowerPoint, making document collaboration seamless.\n\nUsers can create channels for projects, departments, or topics to organize communication efficiently.\n\nIt also supports file sharing, task management, and real-time co-editing for better productivity.\n\nMicrosoft Teams is widely used by businesses, schools, and organizations for remote collaboration and communication.",
+    "size": 150,
+    "reviews": "95000K",
+    "ratingAvg": 4.3,
+    "downloads": "2000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000000
+      },
+      {
+        "name": "2 star",
+        "count": 3000000
+      },
+      {
+        "name": "3 star",
+        "count": 8000000
+      },
+      {
+        "name": "4 star",
+        "count": 20000000
+      },
+      {
+        "name": "5 star",
+        "count": 45000000
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/9c/3d/1a/9c3d1a7f8b6c5d4e3f2a1b9c8d7e6f5a.jpg",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 18,
+    "description": "Zoom is a video conferencing platform that enables users to host and join virtual meetings, webinars, and online events from anywhere in the world.\n\nIt provides high-quality video and audio communication with support for large group meetings and breakout rooms.\n\nUsers can share screens, collaborate on documents, and use virtual backgrounds for a more engaging experience.\n\nZoom became especially popular for remote work, online education, and virtual communication during global digital transformation.\n\nIt also offers recording features, chat messaging, and integration with third-party productivity tools.\n\nWith its simplicity and reliability, Zoom is one of the most widely used video communication platforms globally.",
+    "size": 110,
+    "reviews": "70000K",
+    "ratingAvg": 4.4,
+    "downloads": "1500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1500000
+      },
+      {
+        "name": "2 star",
+        "count": 2500000
+      },
+      {
+        "name": "3 star",
+        "count": 6000000
+      },
+      {
+        "name": "4 star",
+        "count": 18000000
+      },
+      {
+        "name": "5 star",
+        "count": 38000000
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/2e/4b/7d/2e4b7d9a1c3f5e6a8b9c0d1e2f3a4b5c.jpg",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 19,
+    "description": "Google Drive is a cloud storage service that allows users to store, access, and share files securely from any device with internet connectivity.\n\nIt supports a wide range of file types including documents, images, videos, and application files.\n\nUsers can collaborate in real-time on Google Docs, Sheets, and Slides directly within the platform.\n\nGoogle Drive offers automatic syncing across devices, ensuring files are always up to date and accessible anywhere.\n\nIt includes sharing controls, allowing users to manage permissions for viewing, editing, or commenting on files.\n\nAs part of Google Workspace, it is widely used for both personal storage and professional collaboration.",
+    "size": 90,
+    "reviews": "110000K",
+    "ratingAvg": 4.5,
+    "downloads": "3000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3000000
+      },
+      {
+        "name": "2 star",
+        "count": 5000000
+      },
+      {
+        "name": "3 star",
+        "count": 9000000
+      },
+      {
+        "name": "4 star",
+        "count": 30000000
+      },
+      {
+        "name": "5 star",
+        "count": 65000000
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/8d/2c/4f/8d2c4f7a9b1c3d5e6f7a8b9c0d1e2f3a.jpg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon",
+    "id": 20,
+    "description": "Amazon Shopping is a global e-commerce platform that allows users to browse, search, and purchase millions of products online.\n\nIt offers categories including electronics, fashion, home goods, books, and more, making it one of the largest online marketplaces.\n\nUsers can read product reviews, compare prices, and view detailed product descriptions before purchasing.\n\nAmazon provides fast delivery options, including same-day and next-day shipping in many regions.\n\nThe platform also includes personalized recommendations based on browsing and purchase history.\n\nWith its vast product range and reliable delivery system, Amazon has become a leader in global online retail.",
+    "size": 170,
+    "reviews": "200000K",
+    "ratingAvg": 4.4,
+    "downloads": "4000M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5000000
+      },
+      {
+        "name": "2 star",
+        "count": 8000000
+      },
+      {
+        "name": "3 star",
+        "count": 15000000
+      },
+      {
+        "name": "4 star",
+        "count": 45000000
+      },
+      {
+        "name": "5 star",
+        "count": 85000000
+      }
     ]
   }
 ]

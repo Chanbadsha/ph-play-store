@@ -1,12 +1,16 @@
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 import { FaRegStar } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 
 const AppCard = ({ app }) => {
-  const { image, title, downloads, ratingAvg } = app;
+  const { image, title, downloads, ratingAvg, id } = app;
   return (
-    <div className="card p-4 bg-base-100 border content-between  shadow-sm">
+    <Link
+      href={`/apps/${id}`}
+      className="card p-4 bg-base-100 border content-between  shadow-sm"
+    >
       <figure className="bg-gray-100  rounded-lg py-16 flex-1 ">
         <Image
           className="rounded-xl"
@@ -30,7 +34,7 @@ const AppCard = ({ app }) => {
           </div>
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 

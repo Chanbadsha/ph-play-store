@@ -4,7 +4,6 @@ import Link from "next/link";
 import PrimaryBtn from "@/app/utils/PrimaryBtn";
 
 const TrendingApps = () => {
-  console.log(apps);
   return (
     <div className="container mx-auto text-center my-6 lg:my-12">
       <h2 className="font-semibold text-2xl lg:text-4xl ">Trending Apps</h2>
