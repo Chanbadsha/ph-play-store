@@ -1,4 +1,5 @@
 import apps from "@/../public/data.json";
+import InstallBtn from "@/app/lib/InstallBtn";
 import BarCharts from "@/app/utils/BarCharts";
 
 import Image from "next/image";
@@ -20,6 +21,7 @@ const AppDetails = async ({ params }) => {
     size,
     title,
   } = app;
+
   return (
     <div className="flex-1 bg-base-200 px-4 lg:px-0 ">
       <div className="container mx-auto">
@@ -71,9 +73,10 @@ const AppDetails = async ({ params }) => {
                   </div>
                 </div>
               </div>
-              <button className="bg-[#00d390] px-4 py-2 text-white rounded-md mt-6">
+              {/* <button className="bg-[#00d390] px-4 py-2 text-white rounded-md mt-6">
                 Install Now ({size}MB)
-              </button>
+              </button> */}
+              <InstallBtn size={size} appInfo={app} />
             </div>
           </div>
         </div>
